@@ -4,5 +4,5 @@ ECMAScript new features (ES6, ES7)
 
 * arrow functions
 * async / await
-* generators
+* [generators](./generators.js)
 * proxies
